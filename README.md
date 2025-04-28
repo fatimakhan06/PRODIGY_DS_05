@@ -1,8 +1,9 @@
 # PRODIGY_DS_05
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
 
-**Traffic Accident Data Analysis**
-This project analyzes US traffic accidents to identify patterns related to road conditions, weather, and time of day. It includes visualizations of accident severity, accident hotspots, and contributing factors like weather.
+**Traffic Accident Data Analysis**:
+This project analyzes US traffic accidents to identify patterns related to road conditions, weather, and time of day. 
+It includes visualizations of accident severity, accident hotspots, and contributing factors like weather.
 
 **Dataset:**
 The dataset contains information about:
